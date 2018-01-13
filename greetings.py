@@ -1,7 +1,9 @@
-print "First Program"
+print "first program"
 
-print "Good Morning"
+print "good morning"
 
-print "Welcome"
+print "welcome"
 
-print "Good Afternoon"
+print "good afternoon"
+
+print "This is a test program"
