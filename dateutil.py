@@ -8,3 +8,6 @@
 
 
 # a function that will return the current month
+
+
+# a function that will return the current day of the week (sunday to saturday)
